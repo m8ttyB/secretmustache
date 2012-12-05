@@ -58,7 +58,7 @@ MENUITEMS = (
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),
           )
-#DISQUS_SITENAME = ''
+DISQUS_SITENAME = 'secretmustache'
 FLATTR = True
 GITHUB_URL = 'https://github.com/m8ttyB/secretmustache'
 TWITTER_USERNAME = 'm8ttyb'
