@@ -30,11 +30,14 @@ Setting up a dev environment in Windows is a bit more complex; there are several
 
 License
 -------
-This software is licensed under the [MPL 2.0]:
+This software is licensed under the [GPL 3.0]:
 
-    This Source Code Form is subject to the terms of the Mozilla Public
-    License, v. 2.0. If a copy of the MPL was not distributed with this
-    file, You can obtain one at http://mozilla.org/MPL/2.0/.
+    This Source Code is subject to the terms of the GNU GENERAL 
+    Public License, v. 3.0. If a copy of the GPL was not distributed 
+    with this file, You can obtain one at http://www.gnu.org/software/mcsim/GNU-GPL.html.
+
+    GNU GENERAL PUBLIC LICENSE
+    Version 3, 19 November 2007
 
 [secretmustache.com]: http:www.secretmustache.com/
 [Pelican]: https://github.com/getpelican/pelican
@@ -43,4 +46,4 @@ This software is licensed under the [MPL 2.0]:
 [virtualenv]: http://www.virtualenv.org/
 [virtualenvwrapper]: http://www.doughellmann.com/projects/virtualenvwrapper/
 [Google]: http://lmgtfy.com/?q=how+to+install+windows+python+easy_install
-[MPL 2.0]: http://www.mozilla.org/MPL/2.0/
+[GPL 3.0]: http://www.gnu.org/software/mcsim/GNU-GPL.html
