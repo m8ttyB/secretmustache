@@ -36,8 +36,6 @@ This software is licensed under the [GPL 3.0]:
     Public License, v. 3.0. If a copy of the GPL was not distributed 
     with this file, You can obtain one at http://www.gnu.org/software/mcsim/GNU-GPL.html.
 
-    GNU GENERAL PUBLIC LICENSE
-    Version 3, 19 November 2007
 
 [secretmustache.com]: http:www.secretmustache.com/
 [Pelican]: https://github.com/getpelican/pelican
