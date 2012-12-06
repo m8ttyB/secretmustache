@@ -11,10 +11,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=localhost
+SSH_HOST=secretmustache.com
 SSH_PORT=22
-SSH_USER=root
-SSH_TARGET_DIR=/var/www
+SSH_USER=secretmu
+SSH_TARGET_DIR=~/public_html
 
 DROPBOX_DIR=~/Dropbox/Public/
 
