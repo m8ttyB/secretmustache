@@ -3,7 +3,7 @@
 
 import sys
 sys.path.append('.')
-from pelicanconf import *
+from settings import *
 
 SITEURL = 'http://secretmustache.com'
 
