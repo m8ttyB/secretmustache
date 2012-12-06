@@ -1,9 +1,9 @@
-secretmustach.com
+secretmustache.com
 ===================
 
-This is the repository for my blog [secretmustache.com]. It uses [Pelican], a static blog generator written in [Python].
+This is the repository for my blog [secretmustache.com]. It uses [Pelican] a static blog generator written in [Python].
 
-If you find errors or would like to submit amendments to my blog (or even submit an article), I would be more than happy to merge your pull request. Simply submit patches to the .md and .rst files. Don't worry about generating the .html output with [Pelican].
+If you find errors or would like to submit amendments to my blog (or even submit an article) I would be more than happy to merge your pull request. Simply submit patches to the .md and .rst files. Don't worry about generating the .html output with [Pelican].
 
 The following [contributors] have submitted pull requests to [secretmustache.com].
 
