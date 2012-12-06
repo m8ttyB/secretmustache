@@ -6,9 +6,9 @@ PELICAN=pelican
 PELICANOPTS=
 
 BASEDIR=$(pwd)
-INPUTDIR=$BASEDIR/content
+INPUTDIR=$BASEDIR/source
 OUTPUTDIR=$BASEDIR/output
-CONFFILE=$BASEDIR/pelicanconf.py
+CONFFILE=$BASEDIR/settings.py
 
 ###
 # Don't change stuff below here unless you are sure
