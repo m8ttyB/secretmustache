@@ -30,7 +30,7 @@ Setting up a dev environment in Windows is a bit more complex; there are several
 
 License
 -------
-This software is licensed under the [MPL] 2.0:
+This software is licensed under the [MPL 2.0]:
 
     This Source Code Form is subject to the terms of the Mozilla Public
     License, v. 2.0. If a copy of the MPL was not distributed with this
@@ -43,4 +43,4 @@ This software is licensed under the [MPL] 2.0:
 [virtualenv]: http://www.virtualenv.org/
 [virtualenvwrapper]: http://www.doughellmann.com/projects/virtualenvwrapper/
 [Google]: http://lmgtfy.com/?q=how+to+install+windows+python+easy_install
-[MPL]: http://www.mozilla.org/MPL/2.0/
+[MPL 2.0]: http://www.mozilla.org/MPL/2.0/
