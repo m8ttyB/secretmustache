@@ -4,14 +4,6 @@ Counting down to Google I/O
 :category: Blog
 :tags: cons, Mozilla
 
-.. raw:: html
-
-   <p>
-
-.. raw:: html
-
-   <script src="http://www.google.com/events/io/2011/static/js/iobadge.js" type="text/javascript"></script>
-
 I'm starting to get incredibly excited for this year's `Google I/O`_.
 We're just **10 days** away from it's commencement and I have word from
 my close `friend`_ that he's booked our hotel room. We've compared
@@ -24,7 +16,8 @@ lot of innovation.
 
 .. raw:: html
 
-   </p>
+   <script src="http://www.google.com/events/io/2011/static/js/iobadge.js" type="text/javascript"></script></ br>
+
 
 At this years event I'm interested in meeting with other **test minded**
 developers to discuss the current *cutting edge* in testing applications
