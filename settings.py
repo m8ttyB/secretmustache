@@ -50,8 +50,8 @@ THEME = 'secretmustache-theme'
 SECTIONS = [('Blog', 'index.html'),
         ('Archive', 'archives.html'),
         ('Tags', 'tags.html'),
-        ('Projects', 'pages/projects.html'),
-        ('Talks', 'pages/talks.html'),
+        #('Projects', 'pages/projects.html'),
+        #('Talks', 'pages/talks.html'),
         ('About', 'pages/about-me.html')]
 
 
