@@ -45,11 +45,14 @@ DEFAULT_PAGINATION = 5
 # =================
 # Theming
 # =================
-THEME = 'notmyidea'
+THEME = 'secretmustache-theme'
 #GOOGLE_ANALYTICS = 'UA-XXXX-3'
-MENUITEMS = (
-    ('Archives', '{0}/archives.html'.format(SITEURL)),
-)
+SECTIONS = [('Blog', 'index.html'),
+        ('Archive', 'archives.html'),
+        ('Tags', 'tags.html'),
+        #('Projects', 'pages/projects.html'),
+        #('Talks', 'pages/talks.html'),
+        ('About', 'pages/about-me.html')]
 
 
 # =============
@@ -60,5 +63,5 @@ SOCIAL = (('You can add links in your config file', '#'),
           )
 DISQUS_SITENAME = 'secretmustache'
 FLATTR = True
-GITHUB_URL = 'https://github.com/m8ttyB/secretmustache'
+GITHUB_URL = 'https://github.com/m8ttyB'
 TWITTER_USERNAME = 'm8ttyb'

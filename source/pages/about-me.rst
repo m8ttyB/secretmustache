@@ -1,6 +1,6 @@
 About
 #####
-:date: 2012-12-06 21:33
+:category: About
 
 Hi I'm Matt Brandt, a QA Engineer at `Mozilla`_. Currently I am
 a lead on several of our website projects: `input.mozilla.com`_,
