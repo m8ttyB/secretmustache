@@ -9,8 +9,8 @@ DEFAULT_CATEGORY = 'Blog'
 SITENAME = 'Secret Mustache'
 SITEURL = 'http://www.secretmustache.com'
 SITE_URL = SITEURL
-STATIC_PATHS = ['images', ]
-TIMEZONE = 'Asia/Singapore'
+STATIC_PATHS = ['images',]
+TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = u'en'
 
 
@@ -52,7 +52,8 @@ SECTIONS = [('Blog', 'index.html'),
         ('Tags', 'tags.html'),
         #('Projects', 'pages/projects.html'),
         #('Talks', 'pages/talks.html'),
-        ('About', 'pages/about-me.html')]
+        #('About', 'pages/about-me.html')
+        ]
 
 
 # =============
