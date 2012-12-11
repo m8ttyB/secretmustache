@@ -21,13 +21,9 @@ MAIL_HOST = 'thebrandts.org'
 # =============
 PERMALINK_STRUCTURE = '{date:%Y}/{date:%m}/'
 ARTICLE_URL = '%s{slug}.html' % PERMALINK_STRUCTURE
-ARTICLE_LANG_URL = '%s{slug}-{lang}.html' % PERMALINK_STRUCTURE
 PAGE_URL = '%spages/{slug}.html' % PERMALINK_STRUCTURE
-PAGE_LANG_URL = '%spages/{slug}-{lang}.html' % PERMALINK_STRUCTURE
 ARTICLE_SAVE_AS = '%s{slug}.html' % PERMALINK_STRUCTURE
 ARTICLE_LANG_SAVE_AS = '%s{slug}-{lang}.html' % PERMALINK_STRUCTURE
-PAGE_SAVE_AS = '%spages/{slug}.html' % PERMALINK_STRUCTURE
-PAGE_LANG_SAVE_AS = '%spages/{slug}-{lang}.html' % PERMALINK_STRUCTURE
 
 
 # =============
@@ -54,7 +50,7 @@ SECTIONS = [('Blog', 'index.html'),
         ('Tags', 'tags.html'),
         #('Projects', 'pages/projects.html'),
         #('Talks', 'pages/talks.html'),
-        #('About', 'pages/about-me.html')
+        ('About', 'pages/about.html')
         ]
 
 
