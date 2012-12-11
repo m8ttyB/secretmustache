@@ -12,8 +12,8 @@ SITE_URL = SITEURL
 STATIC_PATHS = ['images',]
 TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = u'en'
-MAIL_USERNAME = 'matt'
-MAIL_HOST = 'thebrandts.org'
+MAIL_USERNAME = 'mbrandt'
+MAIL_HOST = 'mozilla.com'
 
 
 # =============
