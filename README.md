@@ -28,6 +28,10 @@ If you are running on Ubuntu/Debian you will need to do the following first to i
 
 Setting up a dev environment in Windows is a bit more complex; there are several good articles you can find using a search engine like [Google]. This is beyond the scope of this readme (I don't have a Windows environment). Patches welcome if you want help with this readme :-)
 
+Themes
+------
+The [secretmustache.com] is currently using the [mustache-theme].
+
 License
 -------
 This software is licensed under the [GPL 3.0]:
@@ -44,4 +48,5 @@ This software is licensed under the [GPL 3.0]:
 [virtualenv]: http://www.virtualenv.org/
 [virtualenvwrapper]: http://www.doughellmann.com/projects/virtualenvwrapper/
 [Google]: http://lmgtfy.com/?q=how+to+install+windows+python+easy_install
+[mustache-theme]: https://github.com/m8ttyB/mustache-theme
 [GPL 3.0]: http://www.gnu.org/software/mcsim/GNU-GPL.html
