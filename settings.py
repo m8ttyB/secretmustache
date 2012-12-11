@@ -44,7 +44,7 @@ DEFAULT_PAGINATION = 5
 # Theming
 # =================
 THEME = 'secretmustache-theme'
-#GOOGLE_ANALYTICS = 'UA-XXXX-3'
+GOOGLE_ANALYTICS = 'UA-36942068-1'
 SECTIONS = [('Blog', 'index.html'),
         ('Archive', 'archives.html'),
         ('Tags', 'tags.html'),
