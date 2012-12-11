@@ -12,6 +12,8 @@ SITE_URL = SITEURL
 STATIC_PATHS = ['images',]
 TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = u'en'
+MAIL_USERNAME = 'matt'
+MAIL_HOST = 'thebrandts.org'
 
 
 # =============
@@ -59,10 +61,8 @@ SECTIONS = [('Blog', 'index.html'),
 # =============
 # Social widget
 # =============
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),
-          )
 DISQUS_SITENAME = 'secretmustache'
 FLATTR = True
 GITHUB_URL = 'https://github.com/m8ttyB'
+LINKEDIN_URL = 'http://www.linkedin.com/in/mlbrandt'
 TWITTER_USERNAME = 'm8ttyb'
