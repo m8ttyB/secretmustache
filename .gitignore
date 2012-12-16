@@ -1,3 +1,4 @@
 *.py[cod]
 output/*
+*.pid
 .DS_Store
