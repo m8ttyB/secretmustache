@@ -29,7 +29,7 @@ existing services within that application. This of course could have
 some interesting and not too unpleasant implications outside of our
 little test group.
 
-.. image:: /static/images/2009/22/autobot.png
+.. image:: /static/images/2009/08/autobot.png
    :alt: Autobot Diagram
 
 By way of driving the application from this layer we can quickly assess
