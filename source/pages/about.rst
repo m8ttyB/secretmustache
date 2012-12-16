@@ -8,7 +8,7 @@ a lead on several of our website projects: `input.mozilla.com`_,
 
 .. image:: /static/images/me.jpg
    :width: 450
-   :align: center
+   :align: left
    :target: /static/images/me.jpg
    :alt: me
 
