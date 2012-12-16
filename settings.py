@@ -37,7 +37,7 @@ LINKS =  (('mbeb.org', 'http://mbeb.org'),
 # Ordering content
 # =================
 REVERSE_ARCHIVE_ORDER = True
-DEFAULT_PAGINATION = 5
+DEFAULT_PAGINATION = 10
 
 
 # =================
