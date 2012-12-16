@@ -15,7 +15,7 @@ hosts file. I was pleasantly surprised that it functions the same as
 
 ::
 
-    c:WINDOWSsystem32driversetchosts
+    C:WINDOWS\system32\driverset\hosts
 
 Simply update the with the *hosts* file with the paths that your need:
 
