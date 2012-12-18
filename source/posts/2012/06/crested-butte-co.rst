@@ -7,7 +7,7 @@ Crested Butte, CO
 This summer I was able to telecommute for a month from `Crested Butte, CO`_  (CB)
 with long-time friend `Jeremy Cerise`_. What a great summer of mountain living
 and trail tromping fun. Mornings were spent working from our apartment until
-we would head out the front door for a lunch-time mountain bike rides. After
+we would head out the front door for lunch-time mountain bike rides. After
 work in the evenings we would lace up the shoes for hikes or more rides.
 
 .. image:: /static/images/2012/06/cb_arrival.jpg
