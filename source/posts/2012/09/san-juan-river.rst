@@ -1,10 +1,10 @@
 San Juan River Trip
 ###################
-:date: 2012-08-10
+:date: 2012-09-10
 :category: Blog
 :tags: life outdoors
 
-.. image:: /static/images/2012/08/river_face_owen.jpg
+.. image:: /static/images/2012/09/river_face_owen.jpg
    :alt: river face @tallowen in his element
    :align: left
    :target: https://picasaweb.google.com/104836188647278518465/SanJuanRiverTrip12?authuser=0&feat=directlink
@@ -26,7 +26,7 @@ I've always felt that river trips are better than regular camping... lot's of
 gourmet food, cold micro-brews (courtesy of `Ska`_), and most importantly
 access to remote and nearly inaccessible places that very few people get trod on.
 
-.. figure:: /static/images/2012/08/san_juan_rate.gif
+.. figure:: /static/images/2012/09/san_juan_rate.gif
    :alt: September 2012 river stats
    :align: center
    :target: http://waterdata.usgs.gov/ut/nwis/uv?cb_00010=on&cb_00060=on&cb_00065=on&cb_00095=on&format=gif_stats&period=&begin_date=2012-09-03&end_date=2012-09-08&site_no=09379500
