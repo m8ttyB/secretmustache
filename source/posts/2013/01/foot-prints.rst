@@ -9,9 +9,8 @@ Reflections & footprints
 
 I am having a quiet evening tonight shuffling through imagery and 
 thoughts of my past and wondering what is next. I didn't sit down 
-tonight with the intent to write this. It just felt right. It felt 
-like it was time to let go and move forward. This post is for me. 
-Finally.
+tonight with the intent to write this. It just felt right. This
+post is for me. Finally.
 
     "He was a wanderer on a prehistoric earth, on an earth that
     wore the aspect of an unknown planet.
@@ -19,7 +18,7 @@ Finally.
     fleeting moment, a footprint at the edge of the rising tide." 
     - `Solitaire`_
 
-Much time has passed since I've felt the healthy untethering of my
+A lot of time has passed since I've felt the healthy untethering of my
 thoughts and a full awakening of a past spirit that was a constant 
 flame in my life. A lot of personal healing and strength over the
 years is culminating and reveling itself in these next steps of my 
@@ -27,17 +26,17 @@ life.
 
 The story is old and I was younger.
 
-Years had past, more than 15 of them. I had seen 
-lot's of suffering and joy in the world; worked in 3rd world clinics, 
+Years past, more than 15 of them. I saw 
+lot's of suffering and joy in the world; worked in 3rd world health clinics, 
 worked with displaced children living on the streets, organized and 
-led service learning abroad trips to Latin America to help people move 
-and learn outside of their comfort zones. I spent time as a backcountry 
-ranger for the Forest Service. I traveled for 2 years and lived out of
-a backpack with the simple intent of experiencing the world and it's
-humanity. I was enthusiastic, a dreamer, and high spirited. I lived a
-fully present life and because of that the world opened to me.
+led service learning abroad trips to Latin America. I spent time as a 
+backcountry ranger for the Forest Service. I traveled for 2 years 
+and lived out of a backpack with the simple intent of experiencing
+the world and it's humanity. I was enthusiastic, a dreamer, and high
+spirited. I lived a fully present life and because of that the world 
+opened to me.
 
-I had seen hope and prosperity in the most unbelievable places and
+I saw hope and prosperity in the most unbelievable places and
 moments.  
 
 I followed an education and career into human services. I chose
