@@ -40,7 +40,7 @@ I saw hope and prosperity in the most unbelievable places and
 moments.  
 
 I followed an education and career into human services. I chose
-Psychology and had the desire of doing undergraduate work in developmental 
+Psychology and had the desire of doing graduate work in developmental 
 cognitive neuroscience. That all changed. Only a few close friends and family
 members followed me through the fire or remember me from before. 
 
