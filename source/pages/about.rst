@@ -5,7 +5,7 @@ Hi I'm Matt Brandt, a QA Engineer at Mozilla - I work for the Fox. I'm a lead
 engineer on several of our web properties.
 
 .. image:: /static/images/me.jpg
-   :width: 450
+   :width: 50%
    :align: left
    :target: /static/images/me.jpg
    :alt: me
