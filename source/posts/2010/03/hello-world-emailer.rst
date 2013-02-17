@@ -2,7 +2,7 @@ Hello world emailer
 ###################
 :date: 2010-03-25 13:15
 :category: Blog
-:tags: Python
+:tags: python
 
 I thought that this would be worth posting, I've been in need of some
 Jython code that would allow me to send out emails with 1 to *n* files

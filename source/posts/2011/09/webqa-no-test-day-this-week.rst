@@ -2,7 +2,7 @@ WebQA: No test day this week
 ############################
 :date: 2011-09-08 10:48
 :category: Blog
-:tags: Mozilla, testing
+:tags: mozilla, testing
 
 Hello all,
 

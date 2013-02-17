@@ -2,7 +2,7 @@ Mozillians Testplan
 ###################
 :date: 2013-02-15
 :category: Blog
-:tags: Mozilla
+:tags: mozilla
 
 Manual Testing
 --------------

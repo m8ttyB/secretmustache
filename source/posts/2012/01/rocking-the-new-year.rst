@@ -2,7 +2,7 @@ Rocking the New Year
 ####################
 :date: 2012-01-05 11:02
 :category: Blog
-:tags: community, Mozilla
+:tags: community, mozilla
 
 This past year on the Mozilla Web Team, 2011, was an incredibly
 fortuitous and ambitious adventure that finished off with excellent

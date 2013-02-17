@@ -2,7 +2,7 @@ Link to Shmuel Gershon's talk
 ##################################
 :date: 2011-06-10 15:55
 :category: Blog
-:tags: testing
+:tags: testing, mozilla
 
 Last month as part of Mozilla's QA tech talk series Shmuel spoke about
 exploratory testing and in particular an open source tool that he

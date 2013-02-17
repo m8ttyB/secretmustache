@@ -2,7 +2,7 @@ Oh, the places you'll go!
 ##############################
 :date: 2011-01-01 15:48
 :category: Blog
-:tags: life, Mozilla
+:tags: life, mozilla
 
 .. image:: /static/images/2011/01/this_is_the_end.jpg
    :alt: this is the end my friends

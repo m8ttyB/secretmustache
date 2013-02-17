@@ -2,7 +2,7 @@ Sort Stability
 ##############
 :date: 2009-09-16 16:45
 :category: Blog
-:tags: Python, testing
+:tags: python, testing
 
 Playing with a sort testing:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

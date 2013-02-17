@@ -2,7 +2,7 @@ MIPS
 ####
 :date: 2010-04-24
 :category: Blog
-:tags: MIPS, learning
+:tags: mips
 
 Spring is in the air (finally) in Colorado and it doesn't look like
 we're going to get *huge* amounts of snow anytime soon. I was dinking

@@ -2,7 +2,7 @@ V2 - a little WebDriver toss in some CraigsList
 ###############################################
 :date: 2010-08-03
 :category: Blog
-:tags: Java, Jython, WebDriver
+:tags: java, jython, webdriver
 
 So I revisited the code that I originally wrote and did quite a bit of
 refactoring along with adding a stats counter that keeps track of pages

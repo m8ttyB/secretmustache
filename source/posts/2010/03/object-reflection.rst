@@ -2,7 +2,7 @@ Object reflection
 #################
 :date: 2010-03-22 19:18
 :category: Blog
-:tags: Python
+:tags: python
 
 Last week I was working on understanding a problem and spent 30 minutes
 exploring reflection. My intention was to populate an array of objects

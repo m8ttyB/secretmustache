@@ -2,7 +2,7 @@ Input Project Test Day
 #######################
 :date: 2011-03-27 13:49
 :category: Blog
-:tags: Mozilla, Selenium, testing
+:tags: mozilla, selenium, testing
 
 Keeping this brief ... If writing Selenium tests excites you and you
 would like to contribute we need your help. March 29th Mozilla's WebQA

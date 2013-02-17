@@ -2,7 +2,7 @@ Euler problem #1
 ################
 :date: 2010-11-23 21:35
 :category: Blog
-:tags: Euler, Python
+:tags: euler, python
 
 Inspired by a conversation with a few people on twitter I came up with a
 mind-map laying out a personal syllabus of learning goals. I've been out

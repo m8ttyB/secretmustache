@@ -2,7 +2,7 @@ Python update all your eggs
 ###########################
 :date: 2010-04-12
 :category: Blog
-:tags: Python
+:tags: python
 
 Quite awhile ago I needed an easy way to update all my Python eggs, this
 is tedious at best especially if you didn't explicitly keep track of

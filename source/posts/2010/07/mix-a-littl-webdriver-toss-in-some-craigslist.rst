@@ -2,7 +2,7 @@ Mix a little WebDriver toss in some CraigsList
 ##############################################
 :date: 2010-07-14 20:57
 :category: Blog
-:tags: Java, WebDriver
+:tags: java, webdriver
 
 A while ago I caught a wild hair to create a program to scrape
 CraigsList for tech jobs. `Chris McMahon`_, fellow friend and creative

@@ -2,7 +2,7 @@ Counting down to Google I/O
 ###########################
 :date: 2011-04-30 17:55
 :category: Blog
-:tags: cons, Mozilla
+:tags: cons, mozilla
 
 I'm starting to get incredibly excited for this year's `Google I/O`_.
 We're just **10 days** away from it's commencement and I have word from

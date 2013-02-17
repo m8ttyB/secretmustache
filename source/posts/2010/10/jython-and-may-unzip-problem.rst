@@ -2,7 +2,7 @@ Jython and my zipping drama (or really my unzip problem)
 ########################################################
 :date: 2010-10-12
 :category: Blog
-:tags: Java, Python
+:tags: java, python
 
 This post is really an effort to comfort myself after experiencing
 something of a late night conniption fit while on a business trip.  The

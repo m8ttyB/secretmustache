@@ -2,7 +2,7 @@ Join us for a testing talk with Lanette Creamer on June 14
 ##########################################################
 :date: 2011-06-10 19:05
 :category: Blog
-:tags: Mozilla, testing
+:tags: mozilla, testing
 
 .. image:: /static/images/2011/06/Lanette_Creamer.jpg
    :alt: Lanette Creamer

@@ -2,7 +2,7 @@ A Kindle arrives at our house
 #############################
 :date: 2010-07-10 20:42
 :category: Blog
-:tags: Java
+:tags: java
 
 Not so long ago I would have cringed a lot harder than I am right now at
 the thought of buying an eReader. I adore books, I love the smell, the

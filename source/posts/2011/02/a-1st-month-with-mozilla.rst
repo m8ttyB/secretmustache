@@ -2,7 +2,7 @@ A 1st month with Mozilla
 ########################
 :date: 2011-02-28 11:40
 :category: Blog
-:tags: Mozilla
+:tags: mozilla
 
 Of the adventures and life events that I've had the fortune
 to be a part of and experience this latest one is without a doubt

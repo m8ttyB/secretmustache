@@ -2,7 +2,7 @@ Jython - How to install Python libraries
 ########################################
 :date: 2010-04-02 13:08
 :category: Blog
-:tags: Jython
+:tags: jython
 
 This wasn't immediately obvious to me even though in hindsight it makes
 sense. Without putting much thought into my first attempt I numbly
