@@ -24,7 +24,7 @@ ARTICLE_URL = '%s{slug}.html' % PERMALINK_STRUCTURE
 PAGE_URL = '%spages/{slug}.html' % PERMALINK_STRUCTURE
 ARTICLE_SAVE_AS = '%s{slug}.html' % PERMALINK_STRUCTURE
 ARTICLE_LANG_SAVE_AS = '%s{slug}-{lang}.html' % PERMALINK_STRUCTURE
-
+TAG_FEED_ATOM = 'feeds/%s.atom.xml'
 
 # =============
 # Blogroll
