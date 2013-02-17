@@ -17,7 +17,7 @@ work in the evenings we would lace up the shoes for hikes or more rides.
    :alt: arriving in Crested Butte, CO
 
 While we were in CB I was really surprised to meet `Bruce Eckel`_ who is one of the
-locals. Of the people in the computing industry to meet Bruce has had one
+locals. Of the people in the computing industry to meet, Bruce has had one
 of the more subtle and in hindsight long lasting influences on my life. I
 initially learned to program through the books he's written
 (Jeremy has a similar story).
@@ -28,7 +28,7 @@ Of the ways to be introduced to someone finding a new trail partner is great!
 We were fortunate enough to be given a tour of the local trail network. Bruce showed us
 some of his favorites.
 
-A couple my around town favorites:
+A couple of my around town favorites:
 
 + `Snodgrass Trail`_
 + `Upper Upper Loop Trail`_
