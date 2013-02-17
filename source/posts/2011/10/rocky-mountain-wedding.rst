@@ -13,4 +13,5 @@ biking, and climbing in this remote portion of the the state.
 
 .. image:: /static/images/2011/10/cat.jpg
    :alt: cat in a coach
-   :target: https://picasaweb.google.com/104836188647278518465/BeauJennaWedding2011?authuser=0&feat=directlink
+   :align: center
+   :target: http://m8ttyb.trovebox.com/photos/album-5/list
