@@ -2,7 +2,7 @@ Crested Butte, CO
 #################
 :date: 2012-6-01
 :category: Blog
-:tags: outdoor life
+:tags: outdoors,life
 
 This summer I was able to telecommute for a month from `Crested Butte, CO`_  (CB)
 with long-time friend `Jeremy Cerise`_. What a great summer of mountain living

@@ -2,7 +2,7 @@ San Juan River Trip
 ###################
 :date: 2012-09-10
 :category: Blog
-:tags: life outdoors
+:tags: life,outdoors
 
 .. image:: /static/images/2012/09/river_face_owen.jpg
    :alt: river face @tallowen in his element
