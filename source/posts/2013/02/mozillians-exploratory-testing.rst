@@ -4,8 +4,18 @@ Mozillians Testplan
 :category: Blog
 :tags: Mozilla
 
-Welcome to the `Mozillians project`_ - A community phonebook to share, identify
-and communicate with other Mozillians in our community.
+Manual Testing
+--------------
+Welcome to the `Mozillians project`_ - A `community phonebook`_ to share, identify
+and communicate with other Mozillians in our community. If this is your first
+time working on a project at Mozilla or you're a seasoned veteran this is a great
+project to get involved on.
+
+.. image:: /static/images/2013/02/mozillians.png
+   :width: 75%
+   :align: center
+   :alt: Mozillians.org homepage
+   :target: https://mozillians.org
 
 Exploratory Testing
 -------------------
@@ -37,6 +47,11 @@ The Mozillians project targets several different types of users:
 
 Testing
 -------
+
+.. image:: /static/images/2013/01/speak_your_mind.jpg
+   :align: center
+   :alt: Explore!
+
 Your mission if you choose to accept is to creatively explore the Mozillians
 `website`_, keeping in mind the users it is intended for. As you work through the
 different areas of the application, apply a critical eye to the design, layout,
@@ -64,9 +79,20 @@ On the Mozillians project all defects and feature requests are tracked in
 problems in software; some bugs describe feature requests, and some ask for help.
 We simply use Bugzilla as a ticketing system that helps facilitate discussion.
 
+.. image:: /static/images/2013/02/bugzilla.png
+   :width: 75%
+   :align: center
+   :alt: Bugzilla
+   :target: https://bugzilla.mozilla.org
+
 As you are testing, the types of bugs that you’ll discover will likely fall into
-three categories: functional regressions in the application, usability problems,
-and new feature suggestions. Sometimes the issues are `known or even deliberate`_.
+three categories:
+
+1. Functional regressions in the application
+2. Usability problems,
+3. New feature suggestions.
+
+Sometimes the issues are `known or even deliberate`_.
 If a feature request has been turned down in the past and you feel it should be
 incorporated into the application, please file a bug (or ask that a closed one be
 reopened) and advocate for that feature.
@@ -86,6 +112,7 @@ Please let me know how your testing went. I’d love to hear from you!
 mbrandt@mozilla.com
 
 .. _Mozillians project: https://mozillians.org
+.. _community phonebook: https://wiki.mozilla.org/Mozillians
 .. _automated: https://github.com/mozilla/mozillians-tests
 .. _Wikipedia: https://en.wikipedia.org/wiki/Exploratory_testing#Benefits_and_drawbacks
 .. _exploratory testing: https://en.wikipedia.org/wiki/Exploratory_testing
