@@ -13,7 +13,7 @@ work in the evenings we would lace up the shoes for hikes or more rides.
 .. image:: /static/images/2012/06/cb_arrival.jpg
    :align: center
    :width: 500
-   :target: https://picasaweb.google.com/lh/photo/qTHnL2F6whyPtrX0RPTc7dMTjNZETYmyPJy0liipFm0?feat=directlink
+   :target: http://m8ttyb.trovebox.com/photos/album-7/list
    :alt: arriving in Crested Butte, CO
 
 While we were in CB I was really surprised to meet `Bruce Eckel`_ who is one of the
