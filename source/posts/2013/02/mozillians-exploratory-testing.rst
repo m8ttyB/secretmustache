@@ -116,7 +116,7 @@ mbrandt@mozilla.com
 .. _automated: https://github.com/mozilla/mozillians-tests
 .. _Wikipedia: https://en.wikipedia.org/wiki/Exploratory_testing#Benefits_and_drawbacks
 .. _exploratory testing: https://en.wikipedia.org/wiki/Exploratory_testing
-.. _website: https://mozillians.org
+.. _website: https://mozillians.allizom.org
 .. _API: https://wiki.mozilla.org/Mozillians/API-Specification
 .. _IRC: https://wiki.mozilla.org/IRC
 .. _#mozwebqa: https://widget00.mibbit.com/?settings=1b10107157e79b08f2bf99a11f521973&server=irc.mozilla.org&channel=%23mozwebqa
