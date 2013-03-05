@@ -1,4 +1,4 @@
-Mozillians A big thank you!
+Mozillians a big thank you!
 ###########################
 :date: 2013-03-01
 :category: Blog
