@@ -4,9 +4,6 @@ Mozillians Redesign
 :category: Blog
 :tags: mozilla
 
-Welcome
--------
-
 Help test the new site redesign.  Welcome to the `Mozillians project`_ - a
 `community phonebook`_ to find, share and communicate with like minded
 Mozillians throughout the world. I'm thrilled to announce the latest
@@ -23,7 +20,7 @@ ideas codified.
    :target: https://mozillians.allizom.org
 
 A preview of the new site is live on our staging server - `mozillians.allizom.org`_ 
-- and ready for your critical eye. We welcome you to explore the new site and offer
+- and is ready for your critical eye. We welcome you to explore the new site and offer
 your feedback and suggestions.
 
 Test Plan
@@ -42,30 +39,38 @@ Environments to test against:
 - Android, iOS
 - Firefox (RC, Beta, Nightly), Chrome, IE 8+, Safari
 
+Out of scope of this test cycle (don't test):
+
+- localization (l10n)
+- the profile pages - work is still being completed on their design. For example here is my `profile page`_
+
 Setup
 -----
 
 To get started you’ll need:
 
-- Access to `IRC`_ so you can ask questions in `#mozwebqa`_ and `#commtools`_. Stop in and say hello! We’re a friendly group.
-- Access to the `staging server`_.
-- A vouched Mozillians account: ask in `#mozwebqa`_ or `#commtools`_ to have your account vouched.
+- Get a vouched Mozillians account on our `staging server`_. Ask in `#commtools`_ to have your account vouched.
 - Disposable email addresses so you can create test accounts on stage. I recommend free services like `Mailinator`_ or `10minutemail`_.
 
 Filing Bugs
 -----------
 
-A important tips for filing bugs:
+Important tips for filing bugs:
 
 - `Search Bugzilla`_ to see if the defect has already been filed. Try not to file duplicates if a bug already exists.
 - Write good bugs that provide clear steps to reproduce the problem. Read `this document`_ for tips.
 - Use `this form`_ to file new bugs.
 - `Bugzilla etiquette`_ - be polite and treat people with respect, we are a friendly community.
 
-You can always ask us questions in IRC or via email if you aren’t sure if what
-you found should be entered as a bug.
+We plan on keep this test cycle open from XXX to XXX.
 
-Please let me know how your testing went. I’d love to hear from you!
+I and we really appreciate your enthusiasm and help with making the the community
+phonebook better. This fully a community initiative and wouldn't exist without
+you. If you have questions or simply want to say hello reach out in IRC
+- `#mozwebqa`_ or `#commtools`_ - and introduce yourself. Myself or another
+community member will help you. My online name is mbrandt.
+
+I look forward to seeing you online!
 
 Matt Brandt
 
@@ -86,3 +91,4 @@ https://mozillians.org/u/mbrandt
 .. _this document: https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines?redirectlocale=en-US&redirectslug=Bug_writing_guidelines
 .. _this form: https://bugzilla.mozilla.org/enter_bug.cgi?product=Community%20Tools&component=Phonebook
 .. _Bugzilla etiquette: https://bugzilla.mozilla.org/page.cgi?id=etiquette.html
+.. _profile page: https://mozillians.allizom.org/u/mbrandt/
