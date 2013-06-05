@@ -64,7 +64,7 @@ Important tips for filing bugs:
 
 We plan on keep this test cycle open from XXX to XXX.
 
-We are really appreciate your enthusiasm and help with making the the community
+We really appreciate your enthusiasm and help with making the the community
 phonebook better. This fully a community initiative and wouldn't exist without
 you. If you have questions or simply want to say hello reach out in IRC
 - `#mozwebqa`_ or `#commtools`_ - and introduce yourself. Myself or another
