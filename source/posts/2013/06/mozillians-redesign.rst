@@ -19,30 +19,30 @@ ideas codified.
    :alt: The new Mozillians.org
    :target: https://mozillians.allizom.org
 
-A preview of the new site is live on our staging server - `mozillians.allizom.org`_ 
-- and is ready for your critical eye. We welcome you to explore the new site and offer
-your feedback and suggestions.
+A test environment is live on our staging server - `mozillians.allizom.org`_ 
+- for your critical eye. We welcome you to explore the new site and offer
+your open and unabashed feedback.
 
 Test Plan
 ---------
 We are doing `exploratory testing`_.  Here are a few things you could check for:
 
 - Functionality – a feature does what it is supposed to do.
-- Layout issues - does the site look correct in environments and screen resolutions?
+- Layout issues - does the site look correct in different environments and screen resolutions?
 - Usability - does something not make sense? seem hard to use?
 - Security – XSS, encoding/escaping issues, etc.
 - Error handling – system fails gracefully and displays useful and appropriate error messages
+- localization (l10n)
+
+Out of scope for this test cycle (don't test):
+
+- the profile pages - work is still being completed on their design. For example here is my `profile page`_
 
 Environments to test against:
 
 - Linux, OSX, Windows
 - Android, iOS
-- Firefox (RC, Beta, Nightly), Chrome, IE 8+, Safari
-
-Out of scope of this test cycle (don't test):
-
-- localization (l10n)
-- the profile pages - work is still being completed on their design. For example here is my `profile page`_
+- Firefox (RC, Beta, Nightly), Chrome, IE 9+, Safari
 
 Setup
 -----
@@ -61,8 +61,9 @@ Important tips for filing bugs:
 - Write good bugs that provide clear steps to reproduce the problem. Read `this document`_ for tips.
 - Use `this form`_ to file new bugs.
 - `Bugzilla etiquette`_ - be polite and treat people with respect, we are a friendly community.
+- `IRC etiquette`_ - same as Bugzilla; relax and have fun.
 
-We plan on keep this test cycle open from XXX to XXX.
+We plan on keeping this test cycle open from XXX to XXX.
 
 We really appreciate your enthusiasm and help with making the community
 phonebook better. This is fully a community initiative and wouldn't exist
@@ -91,4 +92,5 @@ https://mozillians.org/u/mbrandt
 .. _this document: https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines?redirectlocale=en-US&redirectslug=Bug_writing_guidelines
 .. _this form: https://bugzilla.mozilla.org/enter_bug.cgi?product=Community%20Tools&component=Phonebook
 .. _Bugzilla etiquette: https://bugzilla.mozilla.org/page.cgi?id=etiquette.html
+.. _IRC etiquette: https://quality.mozilla.org/docs/misc/getting-started-with-irc/
 .. _profile page: https://mozillians.allizom.org/u/mbrandt/
