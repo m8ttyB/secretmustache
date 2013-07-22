@@ -37,6 +37,7 @@ We are doing `exploratory testing`_.  Here are a few things you could check for:
 Out of scope for this test cycle (don't test):
 
 - the profile pages - work is still being completed on their design. For example here is my `profile page`_
+- search functionality - we know that search and results it returns work suboptimally and will improve it in the future
 
 Environments to test against:
 
