@@ -1,5 +1,5 @@
-Mozillians Redesign
-###################
+Mozillians Re-Design
+####################
 :date: 2013-09-18
 :category: Blog
 :tags: mozilla
