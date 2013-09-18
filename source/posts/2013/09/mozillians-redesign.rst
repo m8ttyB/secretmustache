@@ -1,6 +1,6 @@
 Mozillians Redesign
 ###################
-:date: 2013-06-03
+:date: 2013-09-18
 :category: Blog
 :tags: mozilla
 
@@ -37,7 +37,7 @@ We are doing `exploratory testing`_.  Here are a few things you could check for:
 Out of scope for this test cycle (don't test):
 
 - the profile pages - work is still being completed on their design. For example here is my `profile page`_
-- search functionality - we know that search and results it returns work suboptimally and will improve it in the future
+- search functionality - we know that search and results it returns work sub-optimally and will improve it in the future
 
 Environments to test against:
 
@@ -64,7 +64,7 @@ Important tips for filing bugs:
 - `Bugzilla etiquette`_ - be polite and treat people with respect, we are a friendly community.
 - `IRC etiquette`_ - same as Bugzilla; relax and have fun.
 
-We plan on keeping this test cycle open from XXX to XXX.
+We plan on keeping this test cycle open from 2013-09-18 to 2013-09-25.
 
 We really appreciate your enthusiasm and help with making the community
 phonebook better. This is fully a community initiative and wouldn't exist
