@@ -1,0 +1,293 @@
+<!doctype html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+
+        <title>Python development tools and idea</title>
+
+        <meta name="description" content="Python Development Standards and tools">
+        <meta name="author" content="Matt brandt">
+
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+        <link rel="stylesheet" href="css/reveal.min.css">
+        <link rel="stylesheet" href="css/theme/default.css" id="theme">
+
+        <!-- For syntax highlighting -->
+        <link rel="stylesheet" href="lib/css/zenburn.css">
+
+        <!-- If the query includes 'print-pdf', include the PDF print sheet -->
+        <script>
+            if( window.location.search.match( /print-pdf/gi ) ) {
+                var link = document.createElement( 'link' );
+                link.rel = 'stylesheet';
+                link.type = 'text/css';
+                link.href = 'css/print/pdf.css';
+                document.getElementsByTagName( 'head' )[0].appendChild( link );
+            }
+        </script>
+
+        <!--[if lt IE 9]>
+        <script src="lib/js/html5shiv.js"></script>
+        <![endif]-->
+    </head>
+
+    <body>
+
+        <div class="reveal">
+
+            <!-- Any section element inside of this container is displayed as a slide -->
+
+            <div class="slides">
+                <section data-id="702edfa4c75a24dc69def7ba8e3d470d" class="">
+                            <h2>Python Development </h2>
+                            <img style="width: 214.96px; height: 214.96px; max-height: none; max-width: none;" src="https://s3.amazonaws.com/media-p.slid.es/uploads/m8ttyb/images/828313/adopt_mozilla.jpg">
+                            <p>
+                                    Becoming John Law<br />
+                                    &amp;<br />
+                                    Burning Down The Liquor Store
+                            </p>
+                </section>
+                <section data-id="05fb08c40d4b9cc691c1b39ee7213e00" class="">
+                    <h2>Matt Brandt</h2>
+                        <img style="width: 477.597px; height: 318.398px; max-height: none; max-width: none;" src="https://s3.amazonaws.com/media-p.slid.es/uploads/m8ttyb/images/828208/moab.jpg">
+                        <p>
+                            Senior QA Engineer @ <a href="https://www.mozilla.org/contribute/" target="blank_">Mozilla<br />
+                            <a href="https://mozillians.org/u/mbrandt" target="blank_">mozillians.org/u/mbrandt</a>
+                        </p>
+                </section>
+                <section data-id="e196032561b7312bea3b9217d4680748" class="">
+                    <h2>Outline</h2>
+                    <ul>
+                        <li>Who is this information not for</li>
+                        <li>Sand boxing your dev envs</li>
+                        <li>Package management in Python</li>
+                        <li>Linting your code</li>
+                        <li>Docker or Vagrant</li>
+                        <li>PyDoc generation</li>
+                    </ul>
+                </section>
+                <section data-id="75db53a672696fa9f46f458802177ffb" class="">
+                    <h2>Your team Culture</h2>
+                    <p style="position: absolute; width: 662px; height: 626px; z-index: 4; left: 147px; top: 89px;" class="absolute-element">
+                        <img style="width: 621.945px; height: 586.643px; max-height: none; max-width: none;" src="https://s3.amazonaws.com/media-p.slid.es/uploads/m8ttyb/images/827426/blow_over.jpg">
+                        </p>
+                    </section>
+                    <section data-id="bd1ca2d98e7cf19ce133d4296d0dc7de" class="">
+                        <h2>virtualenv</h2>
+                        <p style="position: absolute; width: 754px; height: 47px; z-index: 4; left: 101px; top: 150px;" class="absolute-element">App 1 needs version 1.0, App 2 needs version 1.42</p>
+                        <blockquote style="position: absolute; width: 681px; height: 207px; z-index: 4; left: 135px; top: 263px;" class="absolute-element">
+                            <p>If you install everything into /usr/lib/python2.7/site-packages , it’s easy to end up in a situation where you
+                                unintentionally upgrade an application that shouldn’t be <upgraded class=""></upgraded>
+                            </p>
+                        </blockquote>
+                    </section>
+                    <section data-id="3d936bf3883aa1e9f381685ac7cfc776" class="">
+                        <h2>a wrapper for virtualenv</h2>
+                        <div>
+                            <div align="left">Create a new sandbox</div>
+                            <pre><code> $ mkvirtualenv &lt;project_name&gt;</code></pre>
+                        </div>
+                        <div data-fragment-index="0" class="fragment">
+                            <div align="left">Install dependencies</div>
+                            <pre><code> $ pip install pytest==2.2.4 requests==2.4.3</code></pre>
+                        </div>
+                        <div data-fragment-index="1" class="fragment">
+                            <div align="left">Do work .. when done</div>
+                            <pre><code> $ deactivate</code></pre>
+                        </div>
+                        <div data-fragment-index="2" class="fragment">
+                            <div align="left">Return to this project</div>
+                            <pre><code> $ workon &lt;project_name&gt;</code></pre>
+                        </div>
+                        <div data-fragment-index="3" class="fragment">
+                            <div align="left">Reviewing someone else's code?</div>
+                            <pre><code> $ mktmpenv &amp;&amp; pip install pytest==2.2.4 requests==2.4.3</code></pre>
+                        </div>
+                        </section>
+                        <section data-id="63d456723353fe3cb1f93ee4aae915f5" class="">
+                            <h2>pip</h2>
+                                <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/m8ttyb/images/827628/pip.png">
+                                <p>
+                                    <a href="http://stackoverflow.com/a/3220572" target="_blank">stackoverflow</a>
+                                </p>
+                                    <blockquote>a saga of holy wars</blockquote>
+                        </section>
+                        <section data-id="ced08f45e5e2d5fe846d06a518cf2dd5" class="">
+                            <h2>pip in action</h2>
+                            <div>
+                                <div align="left">Keep <a href="https://github.com/mozilla/mozillians/tree/master/requirements" target="blank_">requirements.txt</a> in version control</div>
+                                <pre><code>
+-r prod.txt
+
+# Documentation
+Sphinx==1.1.3
+
+# Testing
+flake8==2.1.0
+nose==1.0.0
+mock==1.0.1
+-e git://github.com/jbalogh/django-nose.git#egg=django_nose
+-e git://github.com/jbalogh/test-utils.git#egg=test-utils
+lxml==2.1
+pyquery
+
+# L10n
+translate-toolkit==1.8.0
+                                </code></pre>
+                                </div>
+                        </section>
+                        <section data-id="ae7ad0038932d1c2304ea813160276d1" class="">
+                            <h2>More pip</h2>
+                            <div>
+                                <div align="left">Install dependencies</div>
+                                <pre><code> $ pip install -r requirements.txt</code></pre>
+                            </div>
+                            <div data-fragment-index="0" class="fragment">
+                                <div align="left">Upgrade dependencies</div>
+                                <pre><code> $ pip install -U -r requirements.txt</code></pre>
+                            </div>
+                            <div data-fragment-index="1" class="fragment">
+                                <div align="left">What's installed + pinning</div>
+                                <pre><code> $ pip freeze</code></pre>
+                            </div>
+                            <div data-fragment-index="2" class="fragment">
+                                <div align="left">Offline cache</div>
+                                <pre><code>
+        $ pip --download-cache &lt;dir_path&gt;
+        $ pip install --download-cache &lt;dir_path&gt; requirements.txt
+                                </code></pre>
+                            </div>
+                            <br>
+                        </section>
+                        <section data-id="a8e8516abc52427dec07cfb50c9f8493" class="">
+                            <h2>Clean code</h2>
+                            <div>
+                                <div align="left">Pyflakes and pep8 for static analysis of your code</div>
+                                <pre><code>
+$ pep8 tests/
+tests/test_banner.py:21:80: E501 line too long (108 &gt; 79 characters)
+tests/test_banner.py:42:9: E265 block comment should start with '# '
+tests/test_profile.py:32:37: E203 whitespace before ','
+tests/test_profile.py:68:45: E221 multiple spaces before operator
+tests/test_profile.py:103:23: E127 continuation line over-indented for visual indent
+tests/test_profile.py:106:5: E303 too many blank lines (2)
+
+$ pyflakes pages/
+pages/user.py:9: 'TimeoutException' imported but unused
+                            </code></pre>
+                            </div>
+                            <div data-fragment-index="0" class="fragment">
+                                <div align="left">Striking a balance, defining your own standards</div>
+                                <pre><code>
+[flake8]
+    ignore=E121,E123,E124,E125,E126,E129
+    max-line-length=100
+    exclude=migrations
+                                </code></pre>
+                            </div>
+                        </section>
+                        <section data-id="21089d5a63de942c1213ab8c815c3f76" class="">
+                            <h2>Up &amp; running quickly</h2>
+                            <ul style="position: absolute; width: 635.346px; height: 130px; z-index: 4; left: 116px; top: 207px; max-height: none; max-width: none;" class="absolute-element">
+                                <li>(Docker + fig.sh) .. Ansible .. SaltStack</li>
+                                <li data-fragment-index="0" class="fragment">At minimum, Vagrant</li>
+                            </ul>
+                            </section>
+                            <section data-id="79aeee186b2e6a587607c1bd8b3c0340" class="">
+                                <h2>docs</h2>
+                                <p>
+                                    <a href="http://mozillians.readthedocs.org/en/latest/" target="blank_">
+                                        <img style="width: 575.589px; height: 483.699px; max-height: none; max-width: none;" src="https://s3.amazonaws.com/media-p.slid.es/uploads/m8ttyb/images/828175/mozillians_pydoc.png"></a>
+                                        </p>
+                                <p>
+                                    <a href="http://sphinx-doc.org/" target="blank_">Sphinx</a>
+                                </p>
+                            </section>
+                            <section data-id="5f464bfd963c8fe97d82b12c314d8754" class="">
+                                <h2>Questions</h2>
+                                <a href="https://www.facebook.com/JeremyCollinsArt" target="blank_">
+                                    <img style="width: 548.164px; height: 548.164px; max-height: none; max-width: none;" src="https://s3.amazonaws.com/media-p.slid.es/uploads/m8ttyb/images/828224/be.jpg">
+                                </a>
+                            </section>
+                            <section data-id="8be74ce6f787773bcf3c1d542e6c65fb" class="">
+                                <h2>References</h2>
+                                <div align="left">
+                                    <ul>
+                                        <li>
+                                            <a href="http://www.last.fm/music/Chris+Thomas+King/_/John+Law+Burned+Down+The+Liquor+Sto%27" target="blank_">John Law Burned Down The Liquor Sto'</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://virtualenv.readthedocs.org/en/latest/virtualenv.html" target="blank_">virtualenv</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://pypi.python.org/pypi/virtualenvwrapper" target="blank_">virutalenvwrapper</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://pip.readthedocs.org/en/latest/installing.html" target="blank_">pip</a>,
+                                            <a href="http://pip.readthedocs.org/en/latest/reference/pip_freeze.html" target="blank_">pip freeze</a>, &amp;
+                                            <a href="http://pip.readthedocs.org/en/latest/reference/pip_wheel.html?highlight=#cmdoption--download-cache" target="blank_">pip --download-cache</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://pypi.python.org/pypi/pyflakes" target="blank_">pyflakes</a> &amp;
+                                            <a href="https://pypi.python.org/pypi/pep8/1.5.7" target="blank_">pep8</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://docs.docker.com/" target="blank_">Docker</a>,
+                                            <a href="http://www.fig.sh/" target="blank_">fig.sh</a>,
+                                            <a href="https://docs.vagrantup.com/" target="blank_">Vagrant</a>,
+                                            <a href="http://docs.ansible.com/" target="blank_">Ansible</a>, &amp;
+                                            <a href="http://docs.saltstack.com/en/latest/" target="blank_">SaltStack</a>
+                                        </li>
+                                        <li>
+                                            <a href="http://sphinx-doc.org/index.html" target="blank_">Sphinx</a>
+                                        </li>
+                                        <li>
+                                            <a href="https://www.facebook.com/JeremyCollinsArt" target="blank_">"Be who you want to be" - Jeremy Collins</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </section>
+
+            <!-- Any section element inside of this container is displayed as a slide -->
+
+                        </div>
+        <script src="lib/js/head.min.js"></script>
+        <script src="js/reveal.min.js"></script>
+
+        <script>
+
+            // Full list of configuration options available here:
+            // https://github.com/hakimel/reveal.js#configuration
+            Reveal.initialize({
+                controls: true,
+                progress: true,
+                history: true,
+                center: true,
+
+                theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+                transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+                // Parallax scrolling
+                // parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',
+                // parallaxBackgroundSize: '2100px 900px',
+
+                // Optional libraries used to extend on reveal.js
+                dependencies: [
+                    { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+                    { src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                    { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+                    { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+                    { src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+                    { src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+                ]
+            });
+
+        </script>
+
+    </body>
+</html>
