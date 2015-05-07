@@ -13,12 +13,12 @@ lady friend, my partner, complains that the Internets noticeably slow. 
 This happens whenever I submit a post and more than a handful of people
 decide to read it.
 
-.. image:: /static/images/2012/01/freecog1.jpg
+.. image:: /images/2012/01/freecog1.jpg
    :width: 250
    :alt: my server
    :target:  /static/images/2012/01/freecog1.jpg
 
-.. image:: /static/images/2012/01/freecog2.jpg
+.. image:: /images/2012/01/freecog2.jpg
       :width: 250
       :alt: my server
       :target: /static/images/2012/01/freecog2.jpg

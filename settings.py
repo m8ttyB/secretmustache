@@ -15,6 +15,11 @@ DEFAULT_LANG = u'en'
 MAIL_USERNAME = 'matt'
 MAIL_HOST = 'secretmustache.com'
 
+# =================
+# Jinja2 extensions
+# =================
+JINJA_EXTENSIONS = ['jinja2.ext.loopcontrols']
+
 
 # =============
 # URL settings
@@ -37,7 +42,7 @@ LINKS =  (('mbeb.org', 'http://mbeb.org'),
 # Ordering content
 # =================
 REVERSE_ARCHIVE_ORDER = True
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 0
 
 
 # =================
@@ -45,11 +50,9 @@ DEFAULT_PAGINATION = 10
 # =================
 THEME = 'mustache-theme'
 GOOGLE_ANALYTICS = 'UA-36942068-1'
-SECTIONS = [('Blog', 'index.html'),
-        ('Archive', 'archives.html'),
-        ('Tags', 'tags.html'),
-        #('Projects', 'pages/projects.html'),
-        #('Talks', 'pages/talks.html'),
+SECTIONS = [
+        ('Home', '../index.html'),
+        ('Writing', '../archives.html'),
         ('About', 'pages/about.html')
         ]
 

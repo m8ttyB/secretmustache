@@ -4,7 +4,7 @@ Oh, the places you'll go!
 :category: Blog
 :tags: life, mozilla
 
-.. image:: /static/images/2011/01/this_is_the_end.jpg
+.. image:: /images/2011/01/this_is_the_end.jpg
    :alt: this is the end my friends
 
 Yes the title of this post doesn't hide that I'm about to dive into a
@@ -30,7 +30,7 @@ else that I could toss myself into. Of the conferences I attended,
 of mad-technical-geekery as there should be but what struck me was the
 level of passion.
 
-.. image:: /static/images/2011/01/mozilla.jpg
+.. image:: /images/2011/01/mozilla.jpg
    :alt: Mozilla Dino Roar!
 
 After stepping into the convention center I was at once

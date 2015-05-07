@@ -29,7 +29,7 @@ existing services within that application. This of course could have
 some interesting and not too unpleasant implications outside of our
 little test group.
 
-.. image:: /static/images/2009/08/autobot.png
+.. image:: /images/2009/08/autobot.png
    :alt: Autobot Diagram
 
 By way of driving the application from this layer we can quickly assess
@@ -44,4 +44,3 @@ There is a defined split in philosophies; a vocal group believing that
 stability beneath the viewable presentation layer is the most vital and
 a second and quieter group mumbling... "what about the presentation
 layer?"
-

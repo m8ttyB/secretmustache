@@ -26,10 +26,10 @@ amount of exploratory and release testing. The level of quality of both
 releases and the teams understanding of the underlying risks was greatly
 effected by him.
 
-.. image:: /static/images/2012/01/rshetty.jpg
+.. image:: /images/2012/01/rshetty.jpg
    :width: 450
    :alt: Rajeev Bharshetty
-   :target: /static/images/2012/01/rshetty.jpg
+   :target: /images/2012/01/rshetty.jpg
 
 I look forward to 2012 and seeing what types of testing mischief we can get
 into. The Mozilla QA community is going to get rocked to its core this

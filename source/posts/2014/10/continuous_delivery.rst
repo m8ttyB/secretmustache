@@ -1,8 +1,9 @@
-Continuous Delivery - a generic plan
-####################################
+Continuous Delivery Discussion
+################################
 :date: 2014-10-27
 :category: Blog
 :tags: testing,mozilla
+:excerpt: While the implementation details vary from project to project, the core concepts tend to remain the same between projects. It is important for project stewards; project managers, developers, testers, UX, community, etc to have a shared vocabulary.
 
 Many of Mozilla’s web projects have adopted concepts from `continuous delivery`_.
 Once a code change lands on a master branch it is shepherded to production with

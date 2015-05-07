@@ -11,7 +11,7 @@ and communicate with other Mozillians in our community. If this is your first
 time working on a project at Mozilla or you're a seasoned veteran this is a great
 project to get involved on.
 
-.. image:: /static/images/2013/02/mozillians.png
+.. image:: /images/2013/02/mozillians.png
    :width: 75%
    :align: center
    :alt: Mozillians.org homepage
@@ -48,7 +48,7 @@ The Mozillians project targets several different types of users:
 Testing
 -------
 
-.. image:: /static/images/2013/01/speak_your_mind.jpg
+.. image:: /images/2013/01/speak_your_mind.jpg
    :align: center
    :alt: Explore!
 
@@ -79,7 +79,7 @@ On the Mozillians project all defects and feature requests are tracked in
 problems in software; some bugs describe feature requests, and some ask for help.
 We simply use Bugzilla as a ticketing system that helps facilitate discussion.
 
-.. image:: /static/images/2013/02/bugzilla.png
+.. image:: /images/2013/02/bugzilla.png
    :width: 75%
    :align: center
    :alt: Bugzilla

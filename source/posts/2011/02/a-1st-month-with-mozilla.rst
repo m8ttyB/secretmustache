@@ -12,7 +12,7 @@ the excellent projects that I’m on (oh... and the free coffee). The coffee
 bit is a novelty to me at previous employers the staff have had to pool
 their money together to buy items like a coffee pot and a fridge (for our lunches).
 
-.. image:: /static/images/2011/02/input_dashboard.png
+.. image:: /images/2011/02/input_dashboard.png
    :width: 450
    :alt: Input Dashboard
    :target: /static/images/2011/02/input_dashboard.png
