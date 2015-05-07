@@ -4,7 +4,7 @@ Join Us: Shmuel Gershon - Exploratory session based testing
 :category: Blog
 :tags: mozilla, testing
 
-.. image:: /static/images/2011/05/shmuel.jpg
+.. image:: /images/2011/05/shmuel.jpg
    :alt: Shmuel Gershon
    :align: left
 

@@ -11,7 +11,7 @@ mountains and desert. At one point in my life I lived here, spending 10
 years exploring and playing in this area. There is lots of hiking,
 biking, and climbing in this remote portion of the the state.
 
-.. image:: /static/images/2011/10/cat.jpg
+.. image:: /images/2011/10/cat.jpg
    :alt: cat in a coach
    :align: center
    :target: http://m8ttyb.trovebox.com/photos/album-5/list

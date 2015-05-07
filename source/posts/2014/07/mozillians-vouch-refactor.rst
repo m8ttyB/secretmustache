@@ -1,8 +1,12 @@
-Mozillians Vouch Refactor - Testday
-###########################################
+Mozillians Testday
+####################
 :date: 2014-07-24
 :category: Blog
 :tags: mozilla
+:excerpt: The latest `feature set`_ of the community phonebook `has landed`_ and is ready for testing.
+
+Mozillians Vouch Refactor - Testday
+====================================
 
 Welcome to the Mozillians project. We love working with old and new
 contributors!
@@ -118,4 +122,3 @@ https://mozillians.org/u/mbrandt
 .. _Bugzilla etiquette: https://bugzilla.mozilla.org/page.cgi?id=etiquette.html
 .. _IRC etiquette: https://quality.mozilla.org/docs/misc/getting-started-with-irc/
 .. _profile page: https://mozillians.allizom.org/u/mbrandt/
-

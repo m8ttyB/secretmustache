@@ -5,7 +5,7 @@ Who owns quality
 :tags: rant, testing
 
 Lately I've been fielding this question quite a bit at work and frankly
-its getting a bit exhausting to answer. I've become the automated test 
+its getting a bit exhausting to answer. I've become the automated test
 czar and thus all support, maintenance, and failings of our currently frameworks,
 harnesses, and tools are filtered in my direction. OK, I'm joking a bit
 here but at times I can feel the burning stare of colleagues eyes when
@@ -14,10 +14,10 @@ nip us from time to time. You may be on the other side of the boat, but
 when theres a leak on my side don't forget we're still in the same boat
 together.
 
-.. image:: /static/images/2010/11/weaselxing.jpg
+.. image:: /images/2010/11/weaselxing.jpg
    :width: 450
    :alt: weasel crossing
-   :target: /static/images/2010/11/weaselxing.jpg
+   :target: /images/2010/11/weaselxing.jpg
 
 I'm going to *blatantly* steal a blurb from Alan Page's
 blog, `Angry Weasel`_. `Lisa Crispin`_ is credited with pointing me in

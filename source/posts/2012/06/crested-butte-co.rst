@@ -10,7 +10,7 @@ and trail tromping fun. Mornings were spent working from our apartment until
 we would head out the front door for lunch-time mountain bike rides. After
 work in the evenings we would lace up the shoes for hikes or more rides.
 
-.. image:: /static/images/2012/06/cb_arrival.jpg
+.. image:: /images/2012/06/cb_arrival.jpg
    :align: center
    :width: 500
    :target: http://m8ttyb.trovebox.com/photos/album-7/list
@@ -40,7 +40,7 @@ ended up having a small `crash`_ on one of our rides and needing knee surgery.
 I have no frustrations, it was a fantastic summer that brought me great peace of
 mind. I love the mountains. I've realized that the Bay Area is a
 good and kind place but my heart will always be up in higher and quieter places.
-I hope to visit again, CB definitely left a mark on me. 
+I hope to visit again, CB definitely left a mark on me.
 
 I hear that Bruce hosts the `Java Posse`_ :-)
 

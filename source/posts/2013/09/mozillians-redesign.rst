@@ -11,15 +11,15 @@ evolution of the website.
 
 The team has been feverishly redesigning the user experience. We're at a point
 of stability; design ideas have been expressed, debated, agreed upon, and those
-ideas codified. 
+ideas codified.
 
-.. image:: /static/images/2013/06/new_mozillians.png
+.. image:: /images/2013/06/new_mozillians.png
    :width: 75%
    :align: center
    :alt: The new Mozillians.org
    :target: https://mozillians.allizom.org
 
-A test environment is live on our staging server - `mozillians.allizom.org`_ 
+A test environment is live on our staging server - `mozillians.allizom.org`_
 - for your critical eye. We welcome you to explore the new site and offer
 your open and unabashed feedback.
 

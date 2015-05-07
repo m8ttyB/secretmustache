@@ -9,7 +9,7 @@ Google Test Automation Conference. An inspiring trip where I spent
 several days getting test-geek on with a room full of other very
 passionate testers.
 
-.. image:: /static/images/2010/11/Gtac2010.jpg
+.. image:: /images/2010/11/Gtac2010.jpg
    :alt: Esteban and I
 
 Some of the tools and methodologies that I picked up at the conference

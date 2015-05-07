@@ -8,13 +8,13 @@ Thank You
 ---------
 Firstly, I wanted to profoundly thank the Mozilla community for the incredible
 response and support that you expressed when we put out the `call for help`_
-to do exploratory testing on the `Mozillians project`_. 
+to do exploratory testing on the `Mozillians project`_.
 
-.. figure:: /static/images/2013/03/webqa_team.jpg
+.. figure:: /images/2013/03/webqa_team.jpg
    :align: center
    :width: 80%
    :alt: Thank You
-   
+
    ** *The Mozilla Web QA team in San Francisco. From left to right: Raymond Etornam, Dave Hunt, Bob Silverberg, Matt Brandt, Stephen Donner, Zac Campbell, Rebecca Billings, and Krupa Raj* **
 
 The number and quality of bugs filed (`54`_) within the short timeframe of a few
@@ -24,7 +24,7 @@ generation of `UX`_ that the team is working on.
 
 I've whole-heartily enjoyed speaking with you in `IRC`_, `email`_, and `Bugzilla`_. To
 be quite honest your feedback has swamped our small team! This is something to
-be celebrated! Thank you! 
+be celebrated! Thank you!
 
 Next Steps: Phase 3
 -------------------
@@ -39,12 +39,12 @@ site-wide overhaul.
   solutions to increase the likelihood of participation from potential and
   new contributors." ~ `Phase 3`_
 
-.. image:: /static/images/2013/03/mozillians_roadmap.png
+.. image:: /images/2013/03/mozillians_roadmap.png
    :align: center
    :width: 100%
    :alt: Roadmap - Phase 3
    :target: https://wiki.mozilla.org/Mozillians/Milestones/Phase3
-   
+
 Phase 3 includes:
 
 * `Privacy Controls`_
@@ -58,7 +58,7 @@ Phase 3 includes:
 * `Improve Groups UX`_
 
 Over the course of the next several weeks the team will begin creating the next
-iteration of Mozillians after which we'll engage the community again for an 
+iteration of Mozillians after which we'll engage the community again for an
 in-depth round of focused exploratory testing.
 
 Staying Involved
@@ -66,9 +66,9 @@ Staying Involved
 Many of our web projects ebb and flow at varying rates. While the Mozillians
 project is in a state of focused calm you can continue to stay involved; first
 through `manual testing`_ on our other web properties and second by helping
-with `test automation`_. 
+with `test automation`_.
 
-.. image:: /static/images/2013/03/doing_good.png
+.. image:: /images/2013/03/doing_good.png
    :align: center
    :width: 75%
    :alt: Stay involved
@@ -77,7 +77,7 @@ with `test automation`_.
 There is an third option. If the Mozillians project runs strong in your
 veins I am willing to mentor a single individual who *may become the proxy
 lead*. The project currently needs help with new feature testing as well as
-assistance with the weekly releases. 
+assistance with the weekly releases.
 
 I am looking for an individual who is willing to learn as well as actively help me
 creatively push the project forward. This is something that only a person who
