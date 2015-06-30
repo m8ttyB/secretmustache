@@ -3,7 +3,7 @@ Boulder QA Meetup - CD
 :date: 2015-06-22
 :category: Blog
 :tags: testing, mozilla
-:excerpt: I recently visited with a group of software testers up in Boulder, Colorado to discuss peoples thoughts and feelings about Continuous Delivery. The trip highlighted that this conversation still covers unfamiliar ground among software developers and testers alike.
+:excerpt: I recently visited with a group of software testers up in Boulder, Colorado to discuss peoples' thoughts and feelings about Continuous Delivery. The trip highlighted that this conversation still covers unfamiliar ground among software developers and testers alike.
 
 
 .. image:: /images/2015/06/boulder_flatirons.jpg
@@ -17,7 +17,7 @@ Boulder QA Meetup - Discussion on CD
 --------------------------------------
 
 I recently visited with a group of `software testers up in Boulder, Colorado`_ to
-discuss peoples thoughts and feelings about Continuous Delivery. The trip
+discuss peoples' thoughts and feelings about Continuous Delivery. The trip
 highlighted that this conversation still covers unfamiliar ground among software
 developers and testers alike.
 
