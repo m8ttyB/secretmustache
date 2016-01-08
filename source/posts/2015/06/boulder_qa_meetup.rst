@@ -22,19 +22,19 @@ highlighted that this conversation still covers unfamiliar ground among software
 developers and testers alike.
 
 As a few of you are likely to acknowledge I have strong opinions on this subject.
-I purposely left my opions at home, I wanted to observe the natural progression
-of the conversation amoung the group.
+I purposely left my opinions at home, I wanted to observe the natural progression
+of the conversation among the group.
 
 Open questions that the group identified:
- 
+
 * What tools/concepts/workflows exist that help projects move faster but ensure there isn't a loss of product quality.
-* Confusion about QA’s roles - with dev/ops fiercly in the limelight, what value and place does QA have on a project [specifically Manual testing].
+* Confusion about QA’s roles - with dev/ops fiercely in the limelight, what value and place does QA have on a project [specifically Manual testing].
 * Will product quality degrade over time — how do we recognize if a loss of polish is occurring on projects.
 
 The `generic workflow`_ makes sense to people from a hypothetical point of view,
 yet when they attempt to apply it to their work the conversation quickly stalls.
-I think in part because the mental leaps away from our comfort zone; both with 
-letting go of percieved control and our old mental model of our roles on projects.
+I think in part because the mental leaps away from our comfort zone; both with
+letting go of perceived control and our old mental model of our roles on projects.
 
 I believe my biggest take away from the Meetup is what is possible if we release
 ourselves from the roles our job titles place us in and focus on releasing quality
